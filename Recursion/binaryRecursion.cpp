@@ -40,7 +40,7 @@ int main()
     int size = 5;
     int start = 0;
     int end = size - 1;
-    int key = 1;
+    int key = 3;
 
     int ans = binaryS(arr, size, start, end, key);
 
